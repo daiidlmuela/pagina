@@ -1,0 +1,99 @@
+h1
+{
+    color :rgb(242, 7, 211 .7);
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+   
+
+}
+#UNO
+{
+    color: rgb(140, 9, 97);
+    font-size: 40px;
+   
+}
+
+span
+{
+    color: rgb(216, 120, 228);
+    background-color: rgb(0, 0, 0);
+}
+.DOS
+{
+    color: brown;
+    font-size: large;
+   /* transform: rotate(-20deg); rotacion*/
+}
+#diseno
+{
+    font-size: 25px;
+    padding: 8px ;
+    border: 7px solid rgb(227, 42, 79);
+    margin: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 10px #000
+}
+img
+{
+width: 300px;
+height: 300px;
+padding: 50px;
+border-radius: 150px;
+
+
+}
+body
+
+{
+    background-image: url(img/fondo.jpg); /* pone la imagen repetidas veces*/
+   /* background-repeat: no-repeat; pone una sola imagen*/
+    /* background-size: cover;  adapta la imagen al body*/
+    background-position: left top; 
+    background-attachment: fixed; /*deja la imagen fija*/
+   
+
+}
+form
+{
+    text-align:right;
+    
+}
+#njoyas
+{
+
+    font-size: 50xp ;
+}
+.instagram
+{
+    font-size: 30px;
+    color: rgb(163, 84, 237);
+    
+}
+#texto
+{
+    column-count: 10;
+    column-gap: 40px;
+    column-rule: 10px double #000;
+}
+p.texto2
+{
+clear: right;
+}
+section img.img
+{
+    float: left;
+    margin-right: 15px;
+}
+.padre
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+.boton1
+{
+    align-items: auto;
+}
